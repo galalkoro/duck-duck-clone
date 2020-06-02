@@ -12,5 +12,6 @@
 * And much more ...
 
 To see how we built this project click [here](./development-strategy.md)
+
 To see the process of this project click [here](https://github.com/Sayed94h/duck-duck-clone/projects/1)
 
