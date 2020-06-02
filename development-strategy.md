@@ -21,6 +21,8 @@ To practice and learn how to build a basic web page
 
 __A User can see my initial repository and live demo__
 
+> Assigned to `Sayed`
+
 ### Repo 
 
 - Generated the repo `duck-duck-clone` from Template
