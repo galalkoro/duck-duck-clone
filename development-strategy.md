@@ -32,7 +32,7 @@ __A User can see my initial repository and live demo__
 - Create issues
 - Assign the tasks
 
-## 1. __User Story `header`
+## 1. User Story `header`
 
 > This part is assigned to `Sayed`
 
@@ -59,7 +59,7 @@ what did you change in the CSS and why?
 * Created pull request from `branchName` to `master`
 * Assigned reviewer for the pull request
 
-## 2. __User Story `cw--c`
+## 2. User Story `cw--c`
 
 > This part is assigned to `Galal`
 
@@ -86,7 +86,7 @@ what did you change in the CSS and why?
 * Created pull request from `cw--c` to `master`
 * Assigned reviewer for the pull request
 
-## 3. __User Story `badge-link`
+## 3. User Story `badge-link`
 
 > This part is assigned to `Galal`
 
@@ -113,7 +113,7 @@ what did you change in the CSS and why?
 * Created pull request from `badge-link` to `master`
 * Assigned reviewer for the pull request
 
-## 4. __User Story `content-info`
+## 4. User Story `content-info`
 
 > This part is assigned to `Sayed`
 
@@ -140,7 +140,7 @@ what did you change in the CSS and why?
 * Created pull request from `content-info` to `master`
 * Assigned reviewer for the pull request
 
-## 5. __User Story `footer-homepage`
+## 5. User Story `footer-homepage`
 
 > This part is assigned to `Galal`
 
