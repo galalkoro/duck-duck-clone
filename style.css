@@ -1,1 +1,24 @@
+/* footer-homepage */
+footer {
+    
+    padding: 30px;
+    background-color: #76b6f7;
+    width: 100%;
+    bottom: 0px;
+    position: absolute;
+}
 
+ p {
+    color: black;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    bottom: 0px;
+    position: absolute;
+}
+
+h3 {
+    color: rgb(236, 14, 151);
+    justify-content: center;
+    display: flex;
+}
