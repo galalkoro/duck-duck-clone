@@ -1,1 +1,286 @@
 
+
+body {
+    background: #ffe;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+/* HEADER AND NAVIGATION MENU */
+
+#main-header ul a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    line-height: 1.3em;
+    box-sizing: border-box;
+    color: black;
+}
+
+#main-header ul li:hover a {
+    text-decoration: underline;
+}
+#main-header nav {
+
+    padding-left: 10px;
+}
+
+.arrow {
+    font-size: 25px;
+}
+#main-header p {
+    opacity: 0.7;
+}
+
+/* SOCIAL MEDIA DROPDOWN MENU */
+
+#main-header .block-one-social .social-media{
+    position: fixed;
+    right: 19vw;
+    top: -30%;
+    width: calc(100% - 90%);
+    height: 23vh;
+    background: #fff;
+    box-shadow: 10px 10px 5px #ccc;
+    line-height: 1.6em;
+}
+#main-header .block-one-social i, #main-header .block-one-social input  {
+    position: fixed;
+    top: 10vh;
+    right: 19vw;
+    width: 10%;
+    opacity: 0.7;
+}
+#check-social , #check-options{
+    display: none;
+}
+
+label #btn-social, label #btn-options {
+    position: absolute;
+    cursor: pointer;
+}
+
+#check-social:checked ~ .social-media {
+    top: 15%;
+}
+
+/* OPTION MENU SIDEBAR */
+
+#main-header .block-one-options .option-menu{
+    position: fixed;
+    right: 0.2vw;
+    top: -200%;
+    width: calc(100% - 84%);
+    height: 100%;
+    background: #fff;
+    line-height: 1.6em;
+    overflow: scroll;
+}
+#main-header .block-one-options i, #main-header .block-one-options input  {
+    position: fixed;
+    top: 11%;
+    right: 2.6vw;
+    width: 2%;
+    opacity: 0.7;
+}
+
+#check-options:checked ~ .option-menu {
+    top: 1%;
+}
+#main-header .block-one-options label #btn-options {
+    font-size: 25px;
+}
+#main-header .block-one-options label #cancel {
+    z-index: 1111;
+    right: -5vw;
+    top: 5%;
+    font-size: 25px;
+    padding: 4px 9px;
+    transition: all .5s ease;
+}
+
+#check-options:checked ~ label #cancel {
+    right: 4vw;
+}
+
+/* MEDIA QUERIES FOR DROPDOWN MENU AND SIDEBAR MENU */
+
+@media (max-width: 470px) {
+
+/* SOCIAL MEDIA DROPDOWN MENU */
+
+#main-header .block-one-social .social-media{
+    position: fixed;
+    right: 25vw;
+    top: -30%;
+    width: calc(100% - 75%);
+    height: 23vh;
+    background: #fff;
+    line-height: 1.6em;
+}
+#main-header .block-one-social i, #main-header .block-one-social input  {
+    position: fixed;
+    top: 10vh;
+    right: 25vw;
+    width: 10%;
+    opacity: 0.7;
+}
+#check-social , #check-options{
+    display: none;
+}
+
+label #btn-social, label #btn-options {
+    position: absolute;
+    cursor: pointer;
+}
+
+#check-social:checked ~ .social-media {
+    top: 15%;
+}
+
+/* OPTION MENU SIDEBAR */
+
+#main-header .block-one-options .option-menu{
+    position: fixed;
+    right: 0.2vw;
+    top: -200%;
+    width: calc(100% - 66%);
+    height: 100%;
+    background: #fff;
+    line-height: 1.6em;
+    overflow: scroll;
+}
+#main-header .block-one-options i, #main-header .block-one-options input  {
+    position: fixed;
+    top: 11%;
+    right: 6vw;
+    width: 2%;
+    opacity: 0.7;
+}
+
+#check-options:checked ~ .option-menu {
+    top: 1%;
+}
+#main-header .block-one-options label #btn-options {
+    font-size: 25px;
+}
+#main-header .block-one-options label #cancel {
+    z-index: 1111;
+    right: -5vw;
+    top: 5%;
+    font-size: 25px;
+    padding: 4px 9px;
+}
+
+#check-options:checked ~ label #cancel {
+    right: 4vw;
+}
+
+
+}
+
+@media (max-width: 790px) {
+
+    /* SOCIAL MEDIA DROPDOWN MENU */
+    
+    #main-header .block-one-social .social-media{
+        position: fixed;
+        right: 25vw;
+        top: -30%;
+        width: calc(100% - 80%);
+        height: 15vh;
+        background: #fff;
+        line-height: 1.6em;
+    }
+    #main-header .block-one-social i, #main-header .block-one-social input  {
+        position: fixed;
+        top: 10vh;
+        right: 25vw;
+        width: 10%;
+        opacity: 0.7;
+    }
+    #check-social , #check-options{
+        display: none;
+    }
+    
+    label #btn-social, label #btn-options {
+        position: absolute;
+        cursor: pointer;
+    }
+    
+    #check-social:checked ~ .social-media {
+        top: 15%;
+    }
+    
+    /* OPTION MENU SIDEBAR */
+    
+    #main-header .block-one-options .option-menu{
+        position: fixed;
+        right: 0.2vw;
+        top: -200%;
+        width: calc(100% - 70%);
+        height: 100%;
+        background: #fff;
+        line-height: 1.6em;
+        overflow: scroll;
+    }
+    #main-header .block-one-options i, #main-header .block-one-options input  {
+        position: fixed;
+        top: 11%;
+        right: 6vw;
+        width: 2%;
+        opacity: 0.7;
+    }
+    
+    #check-options:checked ~ .option-menu {
+        top: 1%;
+    }
+    #main-header .block-one-options label #btn-options {
+        font-size: 25px;
+    }
+    #main-header .block-one-options label #cancel {
+        z-index: 1111;
+        right: -5vw;
+        top: 5%;
+        font-size: 25px;
+        padding: 4px 9px;
+    }
+    
+    #check-options:checked ~ label #cancel {
+        right: 4vw;
+    }
+    
+    
+}
+
+/* ADD YOUR CSS RULES BELOW THIS LINE */
+
+
+/* footer-homepage */
+footer {
+    
+    padding: 30px;
+    background-color: #76b6f7;
+    width: 100%;
+    bottom: 0px;
+    position: absolute;
+}
+ footer p {
+    color: black;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    bottom: 0px;
+    position: absolute;
+}
+
+footer h3 {
+    color: rgb(236, 14, 151);
+    justify-content: center;
+    display: flex;
+}
