@@ -159,7 +159,7 @@ This part of the web page was created in a branch called `footer-homepage` and m
 what did you change in the HTML and why?
 
     I did nit change anything from HTML files but I added the part of footer and this part you can see who wrote it.
-
+    <footer>, <p> & <h3>
 ### CSS
 
 what did you change in the CSS and why?
