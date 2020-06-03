@@ -146,7 +146,7 @@ what did you change in the CSS and why?
 
 __full user story description__
 
-As a website creator I want to create a `webpage-part-name` ...
+As a website creator I want to create a `footer homepage` that show side of auther names and copyright
 
 ### Branch
 
@@ -158,9 +158,31 @@ This part of the web page was created in a branch called `footer-homepage` and m
 
 what did you change in the HTML and why?
 
+    I did nit change anything from HTML files but I added the part of footer and this part you can see who wrote it.
+
 ### CSS
 
 what did you change in the CSS and why?
+
+     Also I did not change nothing but I added footer that contain 
+     padding: 30px;
+    background-color: #76b6f7;         
+    width: 100%;
+    bottom: 0px;
+    position: absolute;
+
+    p contain 
+    color: black;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    bottom: 0px;
+    position: absolute;
+
+    h3 contain 
+    color: rgb(236, 14, 151);
+    justify-content: center;
+    display: flex;
 
 ### Pull request
 
