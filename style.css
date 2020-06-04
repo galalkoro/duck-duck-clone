@@ -889,6 +889,222 @@ section#fourth-sec figure.image img {
 
 }
 
+
+/* SECTION FIFTH */
+
+section#fifth-sec {
+    background: #5f63bd;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+section#fifth-sec h2 {
+    margin-top: 15vh;
+    margin-bottom: 5vh;
+    width: 45vw;
+    font-size: 3em;
+    text-align: center;
+}
+
+section#fifth-sec p {
+    margin-bottom: 5vh;
+    width: 35vw;
+    font-size: 1.5em;
+    text-align: center;
+}
+section#fifth-sec a {
+    margin-bottom: 5vh;
+    width: 35vw;
+    height: 10vh;
+    overflow-x: none;
+    font-size: 1.5em;
+    text-align: center;
+    color: #fff;
+    font-family: sans-serif;
+    background: rgb(112, 22, 105);
+    border-radius: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+section#fifth-sec figure.image img {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+/* MEDIA QUERIES FOR FIFTH SECTION */
+
+@media (max-width: 490px) {
+
+    /* SECTION Five */
+
+section#fifth-sec {
+    background: #5f63bd;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    height: auto;
+}
+section#fifth-sec h2 {
+    margin-top: 20vh;
+    margin-bottom: 5vh;
+    width: 50vw;
+    font-size: 2em;
+    text-align: center;
+}
+
+section#fifth-sec p {
+    margin-bottom: 5vh;
+    width: 45vw;
+    font-size: 1.0em;
+    text-align: center;
+}
+section#fifth-sec a {
+    margin-bottom: 15vh;
+    width: 45vw;
+    height: 10vh;
+    overflow-x: none;
+    font-size: 1.0em;
+    text-align: center;
+    color: #fff;
+    font-family: sans-serif;
+    background: rgb(112, 22, 105);
+    border-radius: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+section#fifth-sec figure.image img {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+
+}
+
+/* SECTION FIFTH */
+
+section#sixth-sec {
+    background: #6cc4da;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+}
+section#sixth-sec h2 {
+    margin-top: 15vh;
+    margin-bottom: 5vh;
+    width: 45vw;
+    font-size: 3em;
+    text-align: center;
+}
+
+section#sixth-sec p {
+    margin-bottom: 5vh;
+    width: 35vw;
+    font-size: 1.5em;
+    text-align: center;
+    opacity: 0.8;
+}
+section#sixth-sec a {
+    margin-bottom: 5vh;
+    width: 35vw;
+    height: 10vh;
+    overflow-x: none;
+    font-size: 1.5em;
+    text-align: center;
+    color: #fff;
+    font-family: sans-serif;
+    background: rgb(34, 51, 150);
+    border-radius: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+section#sixth-sec figure.image img {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+section#sixth-sec div.container{
+    margin-top: 2vh;
+}
+
+section#sixth-sec span.col a {
+    display: block;
+    float: left;
+    text-align: right;
+    background: transparent;
+    font-size: large;
+    color: #222;
+    margin-left: 1vw;
+    
+}
+section#sixth-sec span.close a {
+    text-align: left;
+}
+
+/* MEDIA QUERIES FOR SIXTH SECTION */
+
+@media (max-width: 490px) {
+
+    /* SECTION SIXTH */
+
+section#sixth-sec {
+    background: #6cc4da;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    height: auto;
+}
+section#sixth-sec h2 {
+    margin-top: 20vh;
+    margin-bottom: 5vh;
+    width: 50vw;
+    font-size: 2em;
+    text-align: center;
+}
+
+section#sixth-sec p {
+    margin-bottom: 5vh;
+    width: 45vw;
+    font-size: 1.0em;
+    text-align: center;
+}
+section#sixth-sec a {
+    margin-bottom: 15vh;
+    width: 45vw;
+    height: 10vh;
+    overflow-x: none;
+    font-size: 1.0em;
+    text-align: center;
+    color: #fff;
+    font-family: sans-serif;
+    background: rgb(39, 56, 153);
+    border-radius: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+section#sixth-sec figure.image img {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+
+}
+
 /* footer-homepage */
 footer {
     
