@@ -76,7 +76,6 @@ This part of the web page was created in a branch called `cw--c` and merged when
 ### HTML
 
 what did you change in the HTML and why?
-
 ### CSS
 
 what did you change in the CSS and why?
@@ -92,7 +91,7 @@ what did you change in the CSS and why?
 
 __full user story description__
 
-As a website creator I want to create a `webpage-part-name` ...
+As a website creator I want to create a `div` with classes to provide evidence in support of something. 
 
 ### Branch
 
@@ -104,9 +103,13 @@ This part of the web page was created in a branch called `badge-link` and merged
 
 what did you change in the HTML and why?
 
+    I added section area with link and list 
+
 ### CSS
 
 what did you change in the CSS and why?
+
+    I added padding text-decoration position display 
 
 ### Pull request
 
@@ -159,7 +162,7 @@ This part of the web page was created in a branch called `footer-homepage` and m
 what did you change in the HTML and why?
 
     I did nit change anything from HTML files but I added the part of footer and this part you can see who wrote it.
-    <footer>, <p> & <h3>
+
 ### CSS
 
 what did you change in the CSS and why?
