@@ -352,6 +352,8 @@ section#content-info .whole-content-info {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 200vh;
+    margin-top: -28vh;
 }
 
 section#content-info h2.hh {
@@ -414,7 +416,7 @@ section#showcase {
     width: 100%;
     height: auto;
     margin-top: 120px;
-    margin-bottom: 0;
+    margin-bottom: 15vh;
 }
 section#showcase figure.logo {
     display: flex;
@@ -422,15 +424,15 @@ section#showcase figure.logo {
     justify-content: center;
 }
 section#showcase form {
-    width: 90%;
+    width: 70%;
     height: 10vh;
     margin-top: 10px;
-    margin-left: 2vw;
+    margin-left: 20vw;
     margin-right: 2vw;
 }
 section#showcase form input[type="text"] {
     
-    width: 85%;
+    width: 70%;
     height: 8vh;
     overflow: hidden;
     float: left;
@@ -488,8 +490,7 @@ section#showcase form button {
     display: flex;
     justify-content: center;
     align-items: center;
-    box-sizing: border-box;
-    border-radius: 25%;
+    border-radius: 1em;
 }
 
  section#showcase figure.back img {
@@ -584,8 +585,7 @@ section#showcase form button {
     display: flex;
     justify-content: center;
     align-items: center;
-    box-sizing: border-box;
-    border-radius: 25%;
+    border-radius: 1em;
 }
 section#showcase figure.back img {
     width: 100%;
@@ -624,7 +624,7 @@ section#showcase figure.back img {
         width: 85%;
         height: 8vh;
         overflow: hidden;
-        float: left;
+     
         border: 1px solid #eee;
         border-radius: 0 4px 4px 0;
         margin-bottom: -0.7%;
@@ -635,7 +635,6 @@ section#showcase figure.back img {
     section#showcase form button {
         height: 8vh;
         width: 10%;
-        float: left;
         border: 1px solid #eee;
         border-radius: 0 4px 4px 0;
         border-right: none;
@@ -680,8 +679,7 @@ section#showcase figure.back img {
         display: flex;
         justify-content: center;
         align-items: center;
-        box-sizing: border-box;
-        border-radius: 25%;
+        border-radius: 1em;
     }
     section#showcase figure.back img {
         width: 80%;
@@ -689,8 +687,105 @@ section#showcase figure.back img {
     }
     
     }
-    
 
+/* SECTION THREE */
+
+section#third-sec {
+    background: #0f9e37;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: -50vh;
+    color: #fff;
+}
+section#third-sec h2 {
+    margin-top: 55vh;
+    margin-bottom: 5vh;
+    width: 45vw;
+    font-size: 3em;
+    text-align: center;
+}
+
+section#third-sec p {
+    margin-bottom: 5vh;
+    width: 35vw;
+    font-size: 1.5em;
+    text-align: center;
+}
+section#third-sec a {
+    margin-bottom: 5vh;
+    width: 35vw;
+    height: 10vh;
+    overflow-x: none;
+    font-size: 1.5em;
+    text-align: center;
+    color: #fff;
+    font-family: sans-serif;
+    background: darkgreen;
+    border-radius: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+section#third-sec figure.image img {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+/* MEDIA QUERIES FOR THIRD SECTION */
+
+@media (max-width: 490px) {
+
+    /* SECTION THREE */
+
+section#third-sec {
+    background: #0f9e37;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    height: auto;
+}
+section#third-sec h2 {
+    margin-top: 20vh;
+    margin-bottom: 5vh;
+    width: 50vw;
+    font-size: 2em;
+    text-align: center;
+}
+
+section#third-sec p {
+    margin-bottom: 5vh;
+    width: 45vw;
+    font-size: 1.0em;
+    text-align: center;
+}
+section#third-sec a {
+    margin-bottom: 15vh;
+    width: 45vw;
+    height: 10vh;
+    overflow-x: none;
+    font-size: 1.0em;
+    text-align: center;
+    color: #fff;
+    font-family: sans-serif;
+    background: darkgreen;
+    border-radius: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+section#third-sec figure.image img {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+
+}
 /* footer-homepage */
 footer {
     
