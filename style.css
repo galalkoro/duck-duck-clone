@@ -434,9 +434,7 @@ footer h3 {
 #links {
     background:  #ffe;
     width: 100%;
-    position: absolute;
     display: flex;
-    bottom: 110px;
     padding: 15px;
    
 }
