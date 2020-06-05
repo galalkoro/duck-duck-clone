@@ -40,49 +40,93 @@ __full user story description__
 
 As a website creator I want to create a header with two menus, one for social media and one for our options
 
-### Branch
+ ### Branch
+#### Created the branch
 
 This part of the web page was created in a branch called `header` and merged when the work was done.
 
 ---
 
 ### HTML
+#### Necessary HTML tags:
 
-what did you change in the HTML and why?
+* Added `header tag`
+* Added `div tags`
+* Added `nav tags`
+* Added `ul and li tags`
+* Added `input, label tags`
+* Added `i tags`
+* Added `img tags`
+* Added css classes and ID's to style elements
 
 ### CSS
 
-what did you change in the CSS and why?
+#### Necessary CSS rules:
+
+* Added style for positioning
+* Added style for text 
+* Added style for layout
+* Added style for responsiveness 
+* Added attributes for accessibility 
 
 ### Pull request
 
-* Created pull request from `branchName` to `master`
-* Assigned reviewer for the pull request
+#### Sent pull request: 
 
-## 2. User Story `cw--c`
+* Created pull request from `header` to `master`
+* Assigned reviewer  @galalkoro  for the pull request 
 
-> This part is assigned to `Galal`
+## 2. User Story `showcase`
+
+> This part is assigned to `Sayed`
 
 __full user story description__
 
-As a website creator I want to create a header with two menus, one for social media and one for our options
+As a website creator I want that the website has a nice and representative part to visitors
 
-### Branch
+ ### Branch
+ 
+#### Created the branch
 
-This part of the web page was created in a branch called `cw--c` and merged when the work was done.
+This part of the web page was created in a branch called `showcase` and merged when the work was done.
 
 ---
 
 ### HTML
 
-what did you change in the HTML and why?
+#### Necessary HTML tags:
+
+* Add `section tag`
+* Add `div tag`
+* Add `form tag`
+* Add `input tag`
+* Add `botton tag`
+* Add `span tag`
+* Add `h2 tag`
+* Add `p tag`
+* Add `a tag`
+* Add `figure tag`
+* Add `img tag`
+* Add tabindex, role
+* Add `CSS` classes and `CSS ID's` for styling these elements
+
 ### CSS
 
-what did you change in the CSS and why?
+#### Necessary CSS rules:
+
+* Font Style
+* Color Style
+* Background Style
+* Positioning
+* Flexbox and or CSS grids
+* Media Queries
+* ...
 
 ### Pull request
 
-* Created pull request from `cw--c` to `master`
+#### Sent pull request: 
+
+* Created pull request from `showcase` to `master`
 * Assigned reviewer for the pull request
 
 ## 3. User Story `badge-link`
@@ -116,15 +160,16 @@ what did you change in the CSS and why?
 * Created pull request from `badge-link` to `master`
 * Assigned reviewer for the pull request
 
-## 4. User Story `content-info`
+## 5. User Story `content-info`
 
 > This part is assigned to `Sayed`
 
 __full user story description__
 
-As a website creator I want to create a `webpage-part-name` ...
+As a website creator I want to that the content of the website is clear to the visitors
 
-### Branch
+ ### Branch
+#### Created the branch
 
 This part of the web page was created in a branch called `content-info` and merged when the work was done.
 
@@ -132,18 +177,33 @@ This part of the web page was created in a branch called `content-info` and merg
 
 ### HTML
 
-what did you change in the HTML and why?
+#### Necessary HTML tags:
+
+* Added `section tags`
+* Added `div tags`
+* Added `h2 tags`
+* Added `p tag`
+* Added `img tags`
+* Added tabindex, role
+* Added CSS classes and ID's
 
 ### CSS
 
-what did you change in the CSS and why?
+#### Necessary CSS rules:
+
+* Style the content
+* Using flexbox and CSS grid
+* Adding Media Queries
+* Accessibility attributes
 
 ### Pull request
 
-* Created pull request from `content-info` to `master`
-* Assigned reviewer for the pull request
+#### Sent pull request: 
 
-## 5. User Story `footer-homepage`
+* Created pull request from `content-info` to `master`
+* Assigned reviewer @galalkoro  for the pull request
+
+## 6. User Story `footer-homepage`
 
 > This part is assigned to `Galal`
 
@@ -192,7 +252,151 @@ what did you change in the CSS and why?
 * Created pull request from `footer-homepage` to `master`
 * Assigned reviewer for the pull request
 
-...
+## 7. User Story `section-3`
+
+> This part is assigned to `Sayed`
+
+__full user story description__
+
+As a website creator I want to give more details about the product and demonstrate each product.
+
+ ### Branch
+ 
+#### Created the branch
+
+This part of the web page was created in a branch called `section-3` and merged when the work was done.
+
+---
+
+### HTML
+
+#### Necessary HTML tags:
+
+* Add `section tag`
+* Add `h2 tag`
+* Add `p tag`
+* Add `a tag`
+* Add `figure tag`
+* Add `img tag`
+* Add tabindex, role
+* Add `CSS` classes and `CSS ID's` for styling these elements
+
+### CSS
+
+#### Necessary CSS rules:
+
+* Font Style
+* Color Style
+* Background Style
+* Positioning
+* Flexbox and or CSS grids
+* Media Queries
+* ...
+
+### Pull request
+
+#### Sent pull request: 
+
+* Created pull request from `section-3` to `master`
+* Assigned reviewer for the pull request
+
+## 8. User Story `section-4`
+
+> This part is assigned to `Sayed`
+
+__full user story description__
+
+As a website creator I want to give more details about the product and demonstrate each product.
+
+ ### Branch
+ 
+#### Created the branch
+
+This part of the web page was created in a branch called `section-4` and merged when the work was done.
+
+---
+
+### HTML
+
+#### Necessary HTML tags:
+
+* Add `section tag`
+* Add `h2 tag`
+* Add `p tag`
+* Add `a tag`
+* Add `figure tag`
+* Add `img tag`
+* Add tabindex, role
+* Add `CSS` classes and `CSS ID's` for styling these elements
+
+### CSS
+
+#### Necessary CSS rules:
+
+* Font Style
+* Color Style
+* Background Style
+* Positioning
+* Flexbox and or CSS grids
+* Media Queries
+* ...
+
+### Pull request
+
+#### Sent pull request: 
+
+* Created pull request from `section-4` to `master`
+* Assigned reviewer for the pull request
+
+## 9. User Story `section-5`
+
+> This part is assigned to `Sayed`
+
+__full user story description__
+
+As a website creator I want to give more details about the product and demonstrate each product.
+
+ ### Branch
+ 
+#### Created the branch
+
+This part of the web page was created in a branch called `section-5` and merged when the work was done.
+
+---
+
+### HTML
+
+#### Necessary HTML tags:
+
+* Add `section tag`
+* Add `h2 tag`
+* Add `p tag`
+* Add `a tag`
+* Add `figure tag`
+* Add `img tag`
+* Add tabindex, role
+* Add `CSS` classes and `CSS ID's` for styling these elements
+
+### CSS
+
+#### Necessary CSS rules:
+
+* Font Style
+* Color Style
+* Background Style
+* Positioning
+* Flexbox and or CSS grids
+* Media Queries
+* ...
+
+### Pull request
+
+#### Sent pull request: 
+
+* Created pull request from `section-5` to `master`
+* Assigned reviewer for the pull request
+
+---
 
 ## Finishing Touches
 
