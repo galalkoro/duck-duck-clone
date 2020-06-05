@@ -41,6 +41,7 @@ __full user story description__
 As a website creator I want to create a header with two menus, one for social media and one for our options
 
  ### Branch
+ 
 #### Created the branch
 
 This part of the web page was created in a branch called `header` and merged when the work was done.
@@ -75,6 +76,10 @@ This part of the web page was created in a branch called `header` and merged whe
 
 * Created pull request from `header` to `master`
 * Assigned reviewer  @galalkoro  for the pull request 
+
+#### Issue:
+
+* The issue called `Header` was closed when the branch called `header` was merged.
 
 ## 2. User Story `showcase`
 
@@ -129,6 +134,10 @@ This part of the web page was created in a branch called `showcase` and merged w
 * Created pull request from `showcase` to `master`
 * Assigned reviewer for the pull request
 
+#### Issue:
+
+* The issue called `Showcase` was closed when the branch called `showcase` was merged.
+
 ## 3. User Story `badge-link`
 
 > This part is assigned to `Galal`
@@ -159,6 +168,10 @@ what did you change in the CSS and why?
 
 * Created pull request from `badge-link` to `master`
 * Assigned reviewer for the pull request
+
+#### Issue:
+
+* The issue called `Badge-link` was closed when the branch called `badge-link` was merged.
 
 ## 5. User Story `content-info`
 
@@ -202,6 +215,10 @@ This part of the web page was created in a branch called `content-info` and merg
 
 * Created pull request from `content-info` to `master`
 * Assigned reviewer @galalkoro  for the pull request
+
+#### Issue:
+
+* The issue called `Content-info` was closed when the branch called `content-info` was merged.
 
 ## 6. User Story `footer-homepage`
 
@@ -252,6 +269,10 @@ what did you change in the CSS and why?
 * Created pull request from `footer-homepage` to `master`
 * Assigned reviewer for the pull request
 
+#### Issue:
+
+* The issue called `footer-homepage` was closed when the branch called `footer-homepage` was merged.
+
 ## 7. User Story `section-3`
 
 > This part is assigned to `Sayed`
@@ -299,6 +320,10 @@ This part of the web page was created in a branch called `section-3` and merged 
 
 * Created pull request from `section-3` to `master`
 * Assigned reviewer for the pull request
+
+#### Issue:
+
+* The issue called `section-3` was closed when the branch called `section-3` was merged.
 
 ## 8. User Story `section-4`
 
@@ -348,6 +373,10 @@ This part of the web page was created in a branch called `section-4` and merged 
 * Created pull request from `section-4` to `master`
 * Assigned reviewer for the pull request
 
+#### Issue:
+
+* The issue called `section-4` was closed when the branch called `section-4` was merged.
+
 ## 9. User Story `section-5`
 
 > This part is assigned to `Sayed`
@@ -395,6 +424,10 @@ This part of the web page was created in a branch called `section-5` and merged 
 
 * Created pull request from `section-5` to `master`
 * Assigned reviewer for the pull request
+
+#### Issue:
+
+* The issue called `section-5` was closed when the branch called `section-5` was merged.
 
 ---
 
