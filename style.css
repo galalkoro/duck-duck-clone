@@ -440,7 +440,7 @@ section#showcase form input[type="text"] {
     border-radius: 0 4px 4px 0;
     margin-bottom: -0.7%;
     border-left: none;
-    margin: none;
+    margin: 0;
     background: #fff;
 }
 section#showcase form button {
@@ -451,7 +451,7 @@ section#showcase form button {
     border-radius: 0 4px 4px 0;
     border-right: none;
     background: #fff;
-    margin-left: none;
+    margin-left: 0;
     font-size: 2em;
     opacity: 0.7;
 }
@@ -534,7 +534,7 @@ section#showcase form input[type="text"] {
     border-radius: 0 4px 4px 0;
     margin-bottom: -0.7%;
     border-left: none;
-    margin: none;
+    margin: 0;
     background: #fff;
 }
 section#showcase form button {
@@ -545,7 +545,7 @@ section#showcase form button {
     border-radius: 0 4px 4px 0;
     border-right: none;
     background: #fff;
-    margin-left: none;
+    margin-left: 0;
     font-size: 2em;
     opacity: 0.7;
 }
@@ -629,7 +629,7 @@ section#showcase figure.back img {
         border-radius: 0 4px 4px 0;
         margin-bottom: -0.7%;
         border-left: none;
-        margin: none;
+        margin: 0;
         background: #fff;
     }
     section#showcase form button {
@@ -639,7 +639,7 @@ section#showcase figure.back img {
         border-radius: 0 4px 4px 0;
         border-right: none;
         background: #fff;
-        margin-left: none;
+        margin-left: 0;
         font-size: 2em;
         opacity: 0.7;
     }
@@ -717,7 +717,7 @@ section#third-sec a {
     margin-bottom: 5vh;
     width: 35vw;
     height: 10vh;
-    overflow-x: none;
+    overflow-x: hidden;
     font-size: 1.5em;
     text-align: center;
     color: #fff;
@@ -767,7 +767,7 @@ section#third-sec a {
     margin-bottom: 15vh;
     width: 45vw;
     height: 10vh;
-    overflow-x: none;
+    overflow-x: hidden;
     font-size: 1.0em;
     text-align: center;
     color: #fff;
@@ -814,7 +814,7 @@ section#fourth-sec a {
     margin-bottom: 5vh;
     width: 35vw;
     height: 10vh;
-    overflow-x: none;
+    overflow-x: hidden;
     font-size: 1.5em;
     text-align: center;
     color: #fff;
@@ -864,7 +864,7 @@ section#fourth-sec a {
     margin-bottom: 15vh;
     width: 45vw;
     height: 10vh;
-    overflow-x: none;
+    overflow-x: hidden;
     font-size: 1.0em;
     text-align: center;
     color: #fff;
@@ -913,7 +913,7 @@ section#fifth-sec a {
     margin-bottom: 5vh;
     width: 35vw;
     height: 10vh;
-    overflow-x: none;
+    overflow-x: hidden;
     font-size: 1.5em;
     text-align: center;
     color: #fff;
@@ -963,7 +963,7 @@ section#fifth-sec a {
     margin-bottom: 15vh;
     width: 45vw;
     height: 10vh;
-    overflow-x: none;
+    overflow-x: hidden;
     font-size: 1.0em;
     text-align: center;
     color: #fff;
@@ -1012,7 +1012,7 @@ section#sixth-sec a {
     margin-bottom: 5vh;
     width: 35vw;
     height: 10vh;
-    overflow-x: none;
+    overflow-x: hidden;
     font-size: 1.5em;
     text-align: center;
     color: #fff;
@@ -1080,7 +1080,7 @@ section#sixth-sec a {
     margin-bottom: 15vh;
     width: 45vw;
     height: 10vh;
-    overflow-x: none;
+    overflow-x: hidden;
     font-size: 1.0em;
     text-align: center;
     color: #fff;
